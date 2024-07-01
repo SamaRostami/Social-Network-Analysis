@@ -1,4 +1,4 @@
-# Social Network Analysis Project
+# Social Network Analysis
 
 ![Facebook Social Network Visualization](Banner.png)
 
