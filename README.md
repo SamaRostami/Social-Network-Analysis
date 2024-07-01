@@ -1,8 +1,8 @@
 # Social Network Analysis Project
 
-## Overview
+![Facebook Social Network Visualization](Banner.png)
 
-This project is an extensive analysis of a social network using various network analysis techniques and visualization methods. It focuses on examining the Facebook social network to understand its structure, properties, and community dynamics.
+This project is an analysis of a social network using various network analysis techniques and visualization methods. It focuses on examining the Facebook social network to understand its structure, properties, and community dynamics.
 
 ## Features
 
@@ -23,19 +23,22 @@ This project is an extensive analysis of a social network using various network 
 ## Installation
 
 1. **Clone this repository to your local machine**:
-    ```bash
-    git clone https://github.com/yourusername/social-network-analysis.git
-    ```
+
+   ```bash
+   git clone https://github.com/SamaRostami/Social-Network-Analysis.git
+   ```
 
 2. **Change into the project directory**:
-    ```bash
-    cd social-network-analysis
-    ```
+
+   ```bash
+   cd social-network-analysis
+   ```
 
 3. **Install necessary Python packages**:
-    ```bash
-    pip install networkx matplotlib numpy
-    ```
+
+   ```bash
+   pip install networkx matplotlib numpy
+   ```
 
 4. **Download the dataset**:
    Ensure you have the `facebook_combined.txt.gz` file in the project directory.
